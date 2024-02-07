@@ -1,0 +1,4 @@
+enum DayType {
+  holiday,
+  weekday,
+}
